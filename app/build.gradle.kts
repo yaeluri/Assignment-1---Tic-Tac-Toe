@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.hellokotlin"
+    namespace = "com.example.tictactoe"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.hellokotlin"
+        applicationId = "com.example.tictactoe"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
